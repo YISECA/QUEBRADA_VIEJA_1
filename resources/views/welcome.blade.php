@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata Montaña Entre Nubes - Sector Mirador Juan Rey Sabado 04 de Febrero de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata SENDERO QUEBRADA LA VIEJA 11 de Febrero de 2017</div>
 
                     </div>
 <br>
@@ -32,24 +32,24 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/nubes.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/quebrada.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/quebrada1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
-                                 <li class="elmnt-three">
+                                 <!--<li class="elmnt-three">
                                     
                                         <div class="wrap"><img src="public/Img/nubes2.jpg"  height="400">
 
                                         </div>                                 
-                                </li>
+                                </li>-->
 
                             </ul>
 
@@ -75,20 +75,19 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicado en la las localidades de san Cristóbal, Rafael Uribe Uribe y Usme. El parque colinda al oriente con los barrios se Juan Rey, la Belleza, la Flora y el agroparque los Soches, hacia el occidente en la parte baja se encuentra la Avenida Caracas vía Usme, barrio el Danubio, La Fiscala, Santa Marta, Santa Librada, la ladrillera Santa fe y el portal de Transmilenio de Usme, hacia el norte con el extremo sur de la avenida Décima (en donde se encuentra el cerro Guacamayas) se encuentran barrios como Cerros de Oriente, Barcelona, Las Lomas y el Parque recreativo Bosque de San Carlos, al sur con el sector rural de Usme,  la autopista al Llano que corta la cuchilla del Gavilán, barrios que pertenecen a la comuna Alfonso López: El Uval, Alfonso López Serranías, Tocaimita y Compostelas.
-                        El parque hace parte del sistema de áreas protegidas del distrito y es catalogado como parque ecológico distrital de montaña, tienes 626 hectáreas distribuidas en 3 cerros; Guacamayas, Juan rey y Cuchilla del Gavilán. </font></p>
+                        <p><font size="3">El sendero se encuentra ubicada en la localidad de Chapinero, atravesando sectores de bosque nativo y páramo, y sitios como claro de luna, mirador la virgen. </font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido dará inicio en el ingreso por el barrio Juan Rey donde se realizara un calentamiento de 20 minutos aprox. se darán las indicaciones y las recomendaciones de la actividaden, se hara un desplazamiento corto hacia el mirador de Juan Rey.</font></p>
+                        <p><font size="3">El recorrido da inicio en la carrera 7a con calle 72, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se iniciará con un desplazamiento hasta la parte alta llegando a la avenida circunvalar e ingresando a los predios del acueducto, se continua el sendero hasta claro de luna y luego continuamos hasta el mirador de la virgen.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Alto de la cruz </li>
-                            <li>Mirador del relleno sanitario de Doña Juana </li>
-                            <li>Refugio</li>
-                            <li>Humedales artificiales</li>
+                            <li>Claro de luna </li>
+                            <li>Mirador de la virgen </li>
+                            <li>Ecosistema de niebla</li>
+                            <li>sub- páramo</li>
                             </font>
                         </ul>
                         <br>
@@ -109,7 +108,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>CAI DE JUAN REY TRV. 14 Este (Av Circunvalar - Av Cerros) CALLE 74 SUR</p>
+                                            <p>Carrera 7ª Calle 72 costado oriental esquina norte</p>
 
                                         </td>
 
@@ -124,7 +123,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Juan Rey - Parque San Cayetano</p>
+                                            <p>Rosales</p>
 
                                         </td>
 
@@ -140,7 +139,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Sabado 04 de Febrero de 2017</p>
+                                            <p>Sabado 11 de Febrero de 2017</p>
 
                                         </td>
 
@@ -172,7 +171,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>50 Personsa</p>
+                                            <p>40 Personsa</p>
 
                                         </td>
 
@@ -188,7 +187,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12 - 60 Años</p>
+                                            <p>10 - 60 Años</p>
 
                                         </td>
 
@@ -206,7 +205,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.105 m.s.n.m</td>
+                                            <p>3.000 m.s.n.m</td>
 
                                     </tr>
 
@@ -240,7 +239,7 @@
                                         </td>
 
                                     </tr>
-                                    <tr valign="top">
+                                    <!--<tr valign="top">
 
                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
@@ -275,7 +274,7 @@
 
                                         </td>
 
-                                    </tr>
+                                    </tr>-->
                                      
 
                         </table></center></font>
